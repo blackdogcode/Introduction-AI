@@ -2,4 +2,9 @@
 Coursera IBM Python Data Science
 
 # Machine Learning Library
-[Keras](https://keras.io/), [Tensorflow](https://www.tensorflow.org/), [pyTorch](https://pytorch.org/)
+<hr>
+[Keras](https://keras.io/)
+<hr>
+[Tensorflow](https://www.tensorflow.org/)
+<hr>
+[PyTorch](https://pytorch.org/)
