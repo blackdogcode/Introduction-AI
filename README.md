@@ -1,4 +1,6 @@
 # Artifical Intelligence
+[AI is Not Magic: It’s Time to Demystify and Apply](https://www.ibm.com/blogs/think/2019/03/ai-is-not-magic/)\
+[Women Leaders in AI](https://www.ibm.com/watson/women-leaders-in-ai/)
 <uo>
 <li>IBM Research defines Artificial Intelligence (AI) as Augmented Intelligence, helping experts scale their capabilities as machines do the time-consuming work.</li>
 <li>AI learns by creating machine learning models based on provided inputs and desired outputs.</li>
@@ -7,8 +9,6 @@
 </uo>
 
 ![AI Definition](https://github.com/Blackdog-Programmer/IBM_Artifical_Intelligence/blob/master/References/AI_Definition.png)\
-[AI is Not Magic: It’s Time to Demystify and Apply](https://www.ibm.com/blogs/think/2019/03/ai-is-not-magic/)\
-[Women Leaders in AI](https://www.ibm.com/watson/women-leaders-in-ai/)
 
 # Machine Learning Library
 [Keras](https://keras.io/)\
