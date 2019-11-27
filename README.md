@@ -7,6 +7,7 @@
 <li>AI can be described in different ways based on strength, breadth, and application - Weak or Narrow AI, Strong or Generalized AI, Super or Conscious AI.</li>
 <li>AI is the fusion of many fields of study, such as Computer Science, Electrical Engineering, Mathematics, Statistics, Psychology, Linguistics, and Philosophy.</li>
 </uo> <br>
+
 ![AI Definition](https://github.com/Blackdog-Programmer/IBM_Artifical_Intelligence/blob/master/References/AI_Definition.png)\
 
 # Machine Learning Library
