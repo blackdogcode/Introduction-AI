@@ -1,6 +1,4 @@
-# IMB Applied AI
-
-# Week 1
+# Week 1 - What is AI?
 [AI is Not Magic: It’s Time to Demystify and Apply](https://www.ibm.com/blogs/think/2019/03/ai-is-not-magic/)\
 
 <uo>
