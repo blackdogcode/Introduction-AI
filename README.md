@@ -10,6 +10,9 @@
 
 ![AI Definition](https://github.com/Blackdog-Programmer/IBM_Artifical_Intelligence/blob/master/References/AI_Definition.png)
 
+[IBM Watson creates first movie trailer](https://www.ibm.com/blogs/cloud-archive/2016/08/ibm-watson-creates-first-movie-trailer/)\
+[The USTA uses IBM Watson to enhance player performance](https://www.youtube.com/watch?v=CRJm-L-vytU)
+
 # Machine Learning Library
 [Keras](https://keras.io/)\
 [Tensorflow](https://www.tensorflow.org/)\
