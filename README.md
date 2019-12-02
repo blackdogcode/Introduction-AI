@@ -1,5 +1,5 @@
 # Week 1 - What is AI?
-[AI is Not Magic: It’s Time to Demystify and Apply](https://www.ibm.com/blogs/think/2019/03/ai-is-not-magic/)\
+[AI is Not Magic: It’s Time to Demystify and Apply](https://www.ibm.com/blogs/think/2019/03/ai-is-not-magic/)
 
 <uo>
 <li>IBM Research defines Artificial Intelligence (AI) as Augmented Intelligence, helping experts scale their capabilities as machines do the time-consuming work.</li>
@@ -14,7 +14,15 @@
 [IBM Watson creates first movie trailer](https://www.ibm.com/blogs/cloud-archive/2016/08/ibm-watson-creates-first-movie-trailer/)\
 [The USTA uses IBM Watson to enhance player performance](https://www.youtube.com/watch?v=CRJm-L-vytU)
 
-# Week 2
+# Week 2 - Cognitive computing systems
+
+<uo>
+  <li>Read and interpret unstructured data, understanding not just the meaning of words but also the intent and context in which they are used.</li>
+  <li>Reason about problems in a way that humans reason and make decisions.</li>
+  <li>Learn over time from their interactions with humans and keep getting smarter.</li>
+</uo>
+
+[How to get started with cognitive technology](https://www.coursera.org/learn/introduction-to-ai/supplement/jeilU/lesson-summary)
 
 # Week 3
 
