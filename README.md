@@ -1,6 +1,8 @@
-# Artifical Intelligence
+# IMB Applied AI
+
+# Week 1
 [AI is Not Magic: It’s Time to Demystify and Apply](https://www.ibm.com/blogs/think/2019/03/ai-is-not-magic/)\
-[Women Leaders in AI](https://www.ibm.com/watson/women-leaders-in-ai/)
+
 <uo>
 <li>IBM Research defines Artificial Intelligence (AI) as Augmented Intelligence, helping experts scale their capabilities as machines do the time-consuming work.</li>
 <li>AI learns by creating machine learning models based on provided inputs and desired outputs.</li>
@@ -10,10 +12,19 @@
 
 ![AI Definition](https://github.com/Blackdog-Programmer/IBM_Artifical_Intelligence/blob/master/References/AI_Definition.png)
 
+[Expert Insights: AI fast forwards video for sports highlights](https://www.ibm.com/downloads/cas/XKEPLEJD)\
 [IBM Watson creates first movie trailer](https://www.ibm.com/blogs/cloud-archive/2016/08/ibm-watson-creates-first-movie-trailer/)\
 [The USTA uses IBM Watson to enhance player performance](https://www.youtube.com/watch?v=CRJm-L-vytU)
+
+# Week 2
+
+# Week 3
+
+# Week 4
 
 # Machine Learning Library
 [Keras](https://keras.io/)\
 [Tensorflow](https://www.tensorflow.org/)\
 [PyTorch](https://pytorch.org/)
+
+# Others
