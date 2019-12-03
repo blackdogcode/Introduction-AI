@@ -39,6 +39,8 @@
 [Deep Learning](https://www.ibm.com/blogs/think/category/deep-learning/)\
 [A neural networks deep dive](https://www.ibm.com/blogs/think/category/deep-learning/)
 
+![Machine Lerning Category](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Machine_Learning_Category.png)
+
 # Week 3
 
 # Week 4
