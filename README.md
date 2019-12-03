@@ -65,6 +65,11 @@
   <li>IBM clients always own their own business models, intellectual property, and data. Cognitive systems augment the client’s years of industry experience and domain specific knowledge</li>
 </uo>
 
+[Machine Minds](https://www.bbc.com/future/machine-minds)\
+[Transparency and Trust in the Cognitive Era](https://www.ibm.com/blogs/think/2017/01/ibm-cognitive-principles/)\
+[Trust and Ethics in Technology](https://www.ibm.com/events/think/watch/playlist/472902/replay/120170353/)
+
+
 # Week 4
 
 # Machine Learning Library
