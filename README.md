@@ -1,3 +1,6 @@
+# Machine Learning Library
+[Keras](https://keras.io/), [Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/)
+
 # Week 1 - What is AI?
 [AI is Not Magic: It’s Time to Demystify and Apply](https://www.ibm.com/blogs/think/2019/03/ai-is-not-magic/)
 
@@ -86,8 +89,3 @@
 ![AI Trust Keys](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week3_Issues_and%20Concerns_around%20AI/Trust_Key_in_AI.png)
 
 # Week 4 - The evolution and future of AI
-
-# Machine Learning Library
-[Keras](https://keras.io/)\
-[Tensorflow](https://www.tensorflow.org/)\
-[PyTorch](https://pytorch.org/)
