@@ -58,6 +58,13 @@
 # Week 3 Issues and Concerns around AI
 [Detect the Bias](http://biasreduction.mybluemix.net/)\
 [How AI protects us](https://www.bbc.com/future/article/20170914-spotting-cancer-stopping-shootings-how-ai-protects-us)
+
+<uo>
+  <li>People must be aware when they come into contact with AI and for what purposes it is used</li>
+  <li>People must be aware of the major sources of data in use</li>
+  <li>IBM clients always own their own business models, intellectual property, and data. Cognitive systems augment the client’s years of industry experience and domain specific knowledge</li>
+</uo>
+
 # Week 4
 
 # Machine Learning Library
