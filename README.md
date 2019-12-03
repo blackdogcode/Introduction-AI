@@ -55,7 +55,7 @@
 [IBM Tool Box Github](https://github.com/IBM/adversarial-robustness-toolbox)\
 [The Adversarial Robustness Toolbox](https://www.ibm.com/blogs/research/2018/08/art-v030-backdoor/?_ga=2.208477968.361234973.1575350840-536090355.1575350840)
 
-# Week 3
+# Week 3 Issues and Concerns around AI
 
 # Week 4
 
