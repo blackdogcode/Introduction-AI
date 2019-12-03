@@ -56,7 +56,8 @@
 [The Adversarial Robustness Toolbox](https://www.ibm.com/blogs/research/2018/08/art-v030-backdoor/?_ga=2.208477968.361234973.1575350840-536090355.1575350840)
 
 # Week 3 Issues and Concerns around AI
-
+[Detect the Bias](http://biasreduction.mybluemix.net/)\
+[How AI protects us](https://www.bbc.com/future/article/20170914-spotting-cancer-stopping-shootings-how-ai-protects-us)
 # Week 4
 
 # Machine Learning Library
