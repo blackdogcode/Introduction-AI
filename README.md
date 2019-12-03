@@ -8,7 +8,7 @@
 <li>AI is the fusion of many fields of study, such as Computer Science, Electrical Engineering, Mathematics, Statistics, Psychology, Linguistics, and Philosophy.</li>
 </uo> <br>
 
-![AI Definition](https://github.com/Blackdog-Programmer/IBM_Artifical_Intelligence/blob/master/References/AI_Definition.png)
+![AI Definition](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week1_What_AI/AI_Definition.png)
 
 [Expert Insights: AI fast forwards video for sports highlights](https://www.ibm.com/downloads/cas/XKEPLEJD)\
 [IBM Watson creates first movie trailer](https://www.ibm.com/blogs/cloud-archive/2016/08/ibm-watson-creates-first-movie-trailer/)\
