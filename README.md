@@ -41,7 +41,18 @@
 
 ![Machine Lerning Category](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Machine_Learning_Category.png)
 
-#Computer Vision
+# Natual Language and Computer Vision
+<uo>
+  <li>Natural Language Processing (NLP) is a subset of artificial intelligence that enables computers to understand the meaning of human language, including the intent and context of use.</li>
+  <li>Speech-to-text enables machines to convert speech to text by identifying common patterns in the different pronunciations of a word, mapping new voice samples to corresponding words.</li>
+  <li>Speech Synthesis enables machines to create natural sounding voice models, including the voice of particular individuals.</li>
+  <li>Computer Vision enables machines to identify and differentiate objects in images the same way humans do.</li>
+  <li>Self-driving cars is an application of AI that can utilize NLP, speech, and most importantly, computer vision.</li>
+ </uo><br>
+ 
+[Your AI model might be telling you this is not a cat](https://art-demo.mybluemix.net/?cm_mc_uid=59963159489715526067556&cm_mc_sid_50200000=57143911561485594784&cm_mc_sid_52640000=48611511561485594790)\
+[IBM Tool Box Github](https://github.com/IBM/adversarial-robustness-toolbox)\
+[The Adversarial Robustness Toolbox](https://www.ibm.com/blogs/research/2018/08/art-v030-backdoor/?_ga=2.208477968.361234973.1575350840-536090355.1575350840)
 
 # Week 3
 
