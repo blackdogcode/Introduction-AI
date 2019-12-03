@@ -37,7 +37,7 @@
 [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://gandissect.csail.mit.edu/)
 [Models for machine learning](https://developer.ibm.com/articles/cc-models-machine-learning/)\
 [Deep Learning](https://www.ibm.com/blogs/think/category/deep-learning/)\
-[A neural networks deep dive](https://www.ibm.com/blogs/think/category/deep-learning/)\
+[A neural networks deep dive](https://www.ibm.com/blogs/think/category/deep-learning/)
 
 # Week 3
 
