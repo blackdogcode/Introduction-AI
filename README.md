@@ -15,6 +15,7 @@
 [The USTA uses IBM Watson to enhance player performance](https://www.youtube.com/watch?v=CRJm-L-vytU)
 
 # Week 2 - Cognitive computing systems
+[How to get started with cognitive technology](https://www.coursera.org/learn/introduction-to-ai/supplement/jeilU/lesson-summary)
 
 <uo>
   <li>Read and interpret unstructured data, understanding not just the meaning of words but also the intent and context in which they are used.</li>
@@ -32,12 +33,11 @@
   <li>Machine learning algorithms are trained using data sets split into training data, validation data, and test data.</li>
  </uo><br>
 
+[GAN(generative adversarial network)  - This landscape image was created by AI](https://gan-paint-demo.mybluemix.net/?cm_mc_uid=18442949964915524319331&cm_mc_sid_50200000=60398911561414360866&cm_mc_sid_52640000=69930581561414360872)\
+[GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://gandissect.csail.mit.edu/)
 [Models for machine learning](https://developer.ibm.com/articles/cc-models-machine-learning/)\
 [Deep Learning](https://www.ibm.com/blogs/think/category/deep-learning/)\
 [A neural networks deep dive](https://www.ibm.com/blogs/think/category/deep-learning/)\
-[How to get started with cognitive technology](https://www.coursera.org/learn/introduction-to-ai/supplement/jeilU/lesson-summary)\
-[GAN(generative adversarial network)  - This landscape image was created by AI](https://gan-paint-demo.mybluemix.net/?cm_mc_uid=18442949964915524319331&cm_mc_sid_50200000=60398911561414360866&cm_mc_sid_52640000=69930581561414360872)\
-[GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://gandissect.csail.mit.edu/)
 
 # Week 3
 
