@@ -14,7 +14,7 @@
 [IBM Watson creates first movie trailer](https://www.ibm.com/blogs/cloud-archive/2016/08/ibm-watson-creates-first-movie-trailer/)\
 [The USTA uses IBM Watson to enhance player performance](https://www.youtube.com/watch?v=CRJm-L-vytU)
 
-# Week 2 - Cognitive computing systems
+# Week 2 - Machine Learning/Deep Learning/Neural Network
 [How to get started with cognitive technology](https://www.coursera.org/learn/introduction-to-ai/supplement/jeilU/lesson-summary)
 
 <uo>
