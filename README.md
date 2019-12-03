@@ -50,6 +50,7 @@
   <li>Self-driving cars is an application of AI that can utilize NLP, speech, and most importantly, computer vision.</li>
  </uo><br>
  
+[A beginner's guide to Natural Language Processing](https://developer.ibm.com/articles/a-beginners-guide-to-natural-language-processing/)\
 [Your AI model might be telling you this is not a cat](https://art-demo.mybluemix.net/?cm_mc_uid=59963159489715526067556&cm_mc_sid_50200000=57143911561485594784&cm_mc_sid_52640000=48611511561485594790)\
 [IBM Tool Box Github](https://github.com/IBM/adversarial-robustness-toolbox)\
 [The Adversarial Robustness Toolbox](https://www.ibm.com/blogs/research/2018/08/art-v030-backdoor/?_ga=2.208477968.361234973.1575350840-536090355.1575350840)
