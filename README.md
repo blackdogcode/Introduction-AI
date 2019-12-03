@@ -57,7 +57,7 @@
 
 ![Machine Learning Category](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Machine_Learning_Category.png)
 
-# Week 3 Issues and Concerns around AI
+# Week 3 - Issues and Concerns around AI
 [Detect the Bias](http://biasreduction.mybluemix.net/)\
 [How AI protects us](https://www.bbc.com/future/article/20170914-spotting-cancer-stopping-shootings-how-ai-protects-us)
 
@@ -71,12 +71,13 @@
 [Transparency and Trust in the Cognitive Era](https://www.ibm.com/blogs/think/2017/01/ibm-cognitive-principles/)\
 [Trust and Ethics in Technology](https://www.ibm.com/events/think/watch/playlist/472902/replay/120170353/)
 
+![AI Ethics](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week3_Issues_and%20Concerns_around%20AI/AI_Ethics.png)
 
-# Week 4
+![AI Trust Keys](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week3_Issues_and%20Concerns_around%20AI/Trust_Key_in_AI.png)
+
+# Week 4 - The evolution and future of AI
 
 # Machine Learning Library
 [Keras](https://keras.io/)\
 [Tensorflow](https://www.tensorflow.org/)\
 [PyTorch](https://pytorch.org/)
-
-# Others
