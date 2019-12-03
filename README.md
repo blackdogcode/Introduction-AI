@@ -30,7 +30,7 @@
   <li>Supervised Learning is when we have class labels in the data set and use these to build the classification model.</li>
   <li>Supervised Learning is split into three categories – Regression, Classification, and Neural Networks.</li>
   <li>Machine learning algorithms are trained using data sets split into training data, validation data, and test data.</li>
- </uo>
+ </uo><br>
 
 [Models for machine learning](https://developer.ibm.com/articles/cc-models-machine-learning/)\
 [Deep Learning](https://www.ibm.com/blogs/think/category/deep-learning/)\
