@@ -55,6 +55,8 @@
 [IBM Tool Box Github](https://github.com/IBM/adversarial-robustness-toolbox)\
 [The Adversarial Robustness Toolbox](https://www.ibm.com/blogs/research/2018/08/art-v030-backdoor/?_ga=2.208477968.361234973.1575350840-536090355.1575350840)
 
+![Machine Learning Category](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Machine_Learning_Category.png)
+
 # Week 3 Issues and Concerns around AI
 [Detect the Bias](http://biasreduction.mybluemix.net/)\
 [How AI protects us](https://www.bbc.com/future/article/20170914-spotting-cancer-stopping-shootings-how-ai-protects-us)
