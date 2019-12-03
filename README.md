@@ -41,7 +41,7 @@
 
 ![Machine Lerning Category](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Machine_Learning_Category.png)
 
-<hr>Computer Vision</hr>
+<hr>#Computer Vision
 
 # Week 3
 
