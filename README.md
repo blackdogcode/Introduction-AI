@@ -41,6 +41,16 @@
 
 ![Machine Lerning Category](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Machine_Learning_Category.png)
 
+![Perceptron](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Perceptron.png)
+
+![Back Propagation](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Neural_Network_Back_Propogation.png)
+
+![Neural Network](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Neural_Network.png)
+
+![CNN - Convolution Neural Network](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/CNN.png)
+
+![RNNs - Recurrent Neural Netwrok](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/RNNs.png)
+
 # Natual Language and Computer Vision
 <uo>
   <li>Natural Language Processing (NLP) is a subset of artificial intelligence that enables computers to understand the meaning of human language, including the intent and context of use.</li>
