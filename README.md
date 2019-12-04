@@ -1,6 +1,3 @@
-# Machine Learning Library
-[Keras](https://keras.io/), [Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/)
-
 # Week 1 - What is AI?
 [AI is Not Magic: It’s Time to Demystify and Apply](https://www.ibm.com/blogs/think/2019/03/ai-is-not-magic/)
 
@@ -95,6 +92,5 @@
 [Mark Sagar, Oscar-winning AI engineer](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/mark-sagar.html)\
 [Chieko Asakawa, Accessibility research pioneer & IBM Fellow](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/chieko-asakawa.html)\
 [Yoshua Bengio, Preeminent deep learning researcher](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/yoshua-bengio.html)\
-[Margaret Boden, Veteran AI & cognitive scientist](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/margaret-boden.html)
-
-# 
+[Margaret Boden, Veteran AI & cognitive scientist](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/margaret-boden.html)\
+[What Will Our Society Look Like When Artificial Intelligence Is Everywhere?](https://www.smithsonianmag.com/innovation/artificial-intelligence-future-scenarios-180968403/)
