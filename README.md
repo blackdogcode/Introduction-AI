@@ -89,3 +89,12 @@
 ![AI Trust Keys](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week3_Issues_and%20Concerns_around%20AI/Trust_Key_in_AI.png)
 
 # Week 4 - The evolution and future of AI
+
+# IBM Future of AI
+[Kevin Kelly, Tech Author and co-founder of Wired](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/kevin-kelly.html)\
+[Mark Sagar, Oscar-winning AI engineer](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/mark-sagar.html)\
+[Chieko Asakawa, Accessibility research pioneer & IBM Fellow](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/chieko-asakawa.html)\
+[Yoshua Bengio, Preeminent deep learning researcher](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/yoshua-bengio.html)\
+[Margaret Boden, Veteran AI & cognitive scientist](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/margaret-boden.html)
+
+# 
