@@ -1,6 +1,3 @@
-# Machine Learning Library
-[Keras](https://keras.io/), [Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/)
-
 # Week 1 - What is AI?
 [AI is Not Magic: It’s Time to Demystify and Apply](https://www.ibm.com/blogs/think/2019/03/ai-is-not-magic/)
 
@@ -89,3 +86,16 @@
 ![AI Trust Keys](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week3_Issues_and%20Concerns_around%20AI/Trust_Key_in_AI.png)
 
 # Week 4 - The evolution and future of AI
+
+# IBM Future of AI
+[Kevin Kelly, Tech Author and co-founder of Wired](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/kevin-kelly.html)\
+[Mark Sagar, Oscar-winning AI engineer](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/mark-sagar.html)\
+[Chieko Asakawa, Accessibility research pioneer & IBM Fellow](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/chieko-asakawa.html)\
+[Yoshua Bengio, Preeminent deep learning researcher](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/yoshua-bengio.html)\
+[Margaret Boden, Veteran AI & cognitive scientist](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/margaret-boden.html)\
+[What Will Our Society Look Like When Artificial Intelligence Is Everywhere?](https://www.smithsonianmag.com/innovation/artificial-intelligence-future-scenarios-180968403/)
+[IBM Think 2019 - Chairman's Address: Building Cognitive Enterprises](https://www.ibm.com/events/think/watch/replay/120138988/)\
+[IBM Think 2019 – The Future of Infrastructure](https://www.ibm.com/events/think/watch/playlist/472902/replay/120166569/)
+
+# IBM Watson Visual Recognition (VR)
+[IBM Watson Visual Recognition on IBM Cloud](https://cloud.ibm.com/)\
