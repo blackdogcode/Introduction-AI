@@ -94,3 +94,5 @@
 [Yoshua Bengio, Preeminent deep learning researcher](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/yoshua-bengio.html)\
 [Margaret Boden, Veteran AI & cognitive scientist](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/margaret-boden.html)\
 [What Will Our Society Look Like When Artificial Intelligence Is Everywhere?](https://www.smithsonianmag.com/innovation/artificial-intelligence-future-scenarios-180968403/)
+[IBM Think 2019 - Chairman's Address: Building Cognitive Enterprises](https://www.ibm.com/events/think/watch/replay/120138988/)\
+[IBM Think 2019 – The Future of Infrastructure](https://www.ibm.com/events/think/watch/playlist/472902/replay/120166569/)
