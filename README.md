@@ -98,4 +98,9 @@
 [IBM Think 2019 – The Future of Infrastructure](https://www.ibm.com/events/think/watch/playlist/472902/replay/120166569/)
 
 # IBM Watson Visual Recognition (VR)
-[IBM Watson Visual Recognition on IBM Cloud](https://cloud.ibm.com/)\
+[IBM Watson Visual Recognition on IBM Cloud](https://cloud.ibm.com/)
+
+![Classify breed of dogs](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week4_The_evolution_and_future_of_AI/IMB_Classify_Dogs_Result_0.png)
+
+![Classify breed of dogs]((https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week4_The_evolution_and_future_of_AI/IMB_Classify_Dogs_Result_1.png)
+
