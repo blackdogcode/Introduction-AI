@@ -39,6 +39,10 @@
 [Deep Learning](https://www.ibm.com/blogs/think/category/deep-learning/)\
 [A neural networks deep dive](https://www.ibm.com/blogs/think/category/deep-learning/)
 
+![Artifical Intelligence](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Artifical_Intelligence.png)
+
+![Machine_Learning_Process.png](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Machine_Learning_Process.png)
+
 ![Machine Lerning Category](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Machine_Learning_Category.png)
 
 ![Perceptron](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Perceptron.png)
@@ -59,7 +63,9 @@
   <li>Computer Vision enables machines to identify and differentiate objects in images the same way humans do.</li>
   <li>Self-driving cars is an application of AI that can utilize NLP, speech, and most importantly, computer vision.</li>
  </uo><br>
- 
+
+![Natural_Language_Processing](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/Natural_Language_Processing.png)
+
 [A beginner's guide to Natural Language Processing](https://developer.ibm.com/articles/a-beginners-guide-to-natural-language-processing/)\
 [Your AI model might be telling you this is not a cat](https://art-demo.mybluemix.net/?cm_mc_uid=59963159489715526067556&cm_mc_sid_50200000=57143911561485594784&cm_mc_sid_52640000=48611511561485594790)\
 [IBM Tool Box Github](https://github.com/IBM/adversarial-robustness-toolbox)\
@@ -103,3 +109,7 @@
 ![Classify breed of dogs](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week4_The_evolution_and_future_of_AI/IMB_Classify_Dogs_Result_1.png)
 
 ![Classify breed of dogs](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week4_The_evolution_and_future_of_AI/IMB_Classify_Dogs_Result_0.png)
+
+# AI vs Data Science
+
+![AI_vs_DataScience](https://github.com/Blackdog-Programmer/Introduction-AI/blob/master/References/Week2_Machine_Learning_DeepLearning_NeuralNetwork/AI_vs_DataScience.png)
